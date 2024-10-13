@@ -73,3 +73,18 @@ The report shows detailed information about the test runs, including passed, fai
 ![Allure Report](https://github.com/Saiful-cu/Automation-Testing-saucedemo.com/blob/main/Report.png)
 
 ![Allure Report Details](https://github.com/Saiful-cu/Automation-Testing-saucedemo.com/blob/main/Report%20details.png)
+
+## 🤝 Contributing
+
+Want to contribute? Great! Follow these steps:
+
+Fork the repository
+ 1. Create a branch: git checkout -b feature-branch
+ 2. Make your changes and commit: git commit -m 'Feature description'
+ 3. Push to the branch: git push origin feature-branch
+ 4. Submit a pull request
+
+
+## 🎉 Happy Testing!
+
+Automate with confidence and ensure quality across the board with WebDriverIO! 🚀
